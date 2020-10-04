@@ -1,0 +1,43 @@
+{
+  "name": "leetcode-autocomplete",
+  "version": "1.0.0",
+  "description": "leetcode hire autocomplete component practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlixWang/leetCode-Autocomplete.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "autocomplete"
+  ],
+  "author": "wangjun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlixWang/leetCode-Autocomplete/issues"
+  },
+  "homepage": "https://github.com/AlixWang/leetCode-Autocomplete#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-typescript": "^7.10.4",
+    "@typescript-eslint/eslint-plugin": "^3.9.1",
+    "@typescript-eslint/parser": "^3.9.1",
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.6",
+    "eslint-plugin-react-hooks": "^4.1.0",
+    "rollup": "^2.26.4"
+  },
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
